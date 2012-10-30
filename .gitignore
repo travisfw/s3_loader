@@ -6,3 +6,4 @@
 /lib
 /bin
 config.yml
+*.pyc
